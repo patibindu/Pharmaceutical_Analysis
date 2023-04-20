@@ -1,1 +1,1 @@
-# Pharmaceutical_Analysis
+# Pymaceutical_Analysis
